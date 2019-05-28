@@ -1,0 +1,261 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Bluesland\\Desktop\\Custom Shortener\\NatroShortener.Api\\CustomUrlShortener.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Bluesland\\Desktop\\Custom Shortener\\NatroShortener.Api\\CustomUrlShortener.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Bluesland\\Desktop\\Custom Shortener\\NatroShortener.Api\\CustomUrlShortener.Api.csproj",
+        "projectName": "CustomUrlShortener.Api",
+        "projectPath": "C:\\Users\\Bluesland\\Desktop\\Custom Shortener\\NatroShortener.Api\\CustomUrlShortener.Api.csproj",
+        "packagesPath": "C:\\Users\\Bluesland\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bluesland\\Desktop\\Custom Shortener\\NatroShortener.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Bluesland\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\Bluesland\\Desktop\\Custom Shortener\\NatroShortener.Helper\\CustomUrlShortener.Helper.csproj": {
+                "projectPath": "C:\\Users\\Bluesland\\Desktop\\Custom Shortener\\NatroShortener.Helper\\CustomUrlShortener.Helper.csproj"
+              },
+              "C:\\Users\\Bluesland\\Desktop\\Custom Shortener\\NatroShortener.Model\\CustomUrlShortener.Model.csproj": {
+                "projectPath": "C:\\Users\\Bluesland\\Desktop\\Custom Shortener\\NatroShortener.Model\\CustomUrlShortener.Model.csproj"
+              },
+              "C:\\Users\\Bluesland\\Desktop\\Custom Shortener\\NatroShortener.Repository\\CustomUrlShortener.Repository.csproj": {
+                "projectPath": "C:\\Users\\Bluesland\\Desktop\\Custom Shortener\\NatroShortener.Repository\\CustomUrlShortener.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.1.9, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Bluesland\\Desktop\\Custom Shortener\\NatroShortener.Helper\\CustomUrlShortener.Helper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Bluesland\\Desktop\\Custom Shortener\\NatroShortener.Helper\\CustomUrlShortener.Helper.csproj",
+        "projectName": "CustomUrlShortener.Helper",
+        "projectPath": "C:\\Users\\Bluesland\\Desktop\\Custom Shortener\\NatroShortener.Helper\\CustomUrlShortener.Helper.csproj",
+        "packagesPath": "C:\\Users\\Bluesland\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bluesland\\Desktop\\Custom Shortener\\NatroShortener.Helper\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Bluesland\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Bluesland\\Desktop\\Custom Shortener\\NatroShortener.Model\\CustomUrlShortener.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Bluesland\\Desktop\\Custom Shortener\\NatroShortener.Model\\CustomUrlShortener.Model.csproj",
+        "projectName": "CustomUrlShortener.Model",
+        "projectPath": "C:\\Users\\Bluesland\\Desktop\\Custom Shortener\\NatroShortener.Model\\CustomUrlShortener.Model.csproj",
+        "packagesPath": "C:\\Users\\Bluesland\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bluesland\\Desktop\\Custom Shortener\\NatroShortener.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Bluesland\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Bluesland\\Desktop\\Custom Shortener\\NatroShortener.Repository\\CustomUrlShortener.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Bluesland\\Desktop\\Custom Shortener\\NatroShortener.Repository\\CustomUrlShortener.Repository.csproj",
+        "projectName": "CustomUrlShortener.Repository",
+        "projectPath": "C:\\Users\\Bluesland\\Desktop\\Custom Shortener\\NatroShortener.Repository\\CustomUrlShortener.Repository.csproj",
+        "packagesPath": "C:\\Users\\Bluesland\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bluesland\\Desktop\\Custom Shortener\\NatroShortener.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Bluesland\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\Bluesland\\Desktop\\Custom Shortener\\NatroShortener.Model\\CustomUrlShortener.Model.csproj": {
+                "projectPath": "C:\\Users\\Bluesland\\Desktop\\Custom Shortener\\NatroShortener.Model\\CustomUrlShortener.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

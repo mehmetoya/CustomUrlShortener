@@ -1,0 +1,12 @@
+C:\Users\Bluesland\Desktop\Custom Shortener\NatroShortener.Repository\bin\Debug\netcoreapp2.1\CustomUrlShortener.Repository.deps.json
+C:\Users\Bluesland\Desktop\Custom Shortener\NatroShortener.Repository\bin\Debug\netcoreapp2.1\CustomUrlShortener.Repository.dll
+C:\Users\Bluesland\Desktop\Custom Shortener\NatroShortener.Repository\bin\Debug\netcoreapp2.1\CustomUrlShortener.Repository.pdb
+C:\Users\Bluesland\Desktop\Custom Shortener\NatroShortener.Repository\bin\Debug\netcoreapp2.1\CustomUrlShortener.Model.dll
+C:\Users\Bluesland\Desktop\Custom Shortener\NatroShortener.Repository\bin\Debug\netcoreapp2.1\CustomUrlShortener.Model.pdb
+C:\Users\Bluesland\Desktop\Custom Shortener\NatroShortener.Repository\obj\Debug\netcoreapp2.1\CustomUrlShortener.Repository.csprojAssemblyReference.cache
+C:\Users\Bluesland\Desktop\Custom Shortener\NatroShortener.Repository\obj\Debug\netcoreapp2.1\CustomUrlShortener.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Bluesland\Desktop\Custom Shortener\NatroShortener.Repository\obj\Debug\netcoreapp2.1\CustomUrlShortener.Repository.AssemblyInfoInputs.cache
+C:\Users\Bluesland\Desktop\Custom Shortener\NatroShortener.Repository\obj\Debug\netcoreapp2.1\CustomUrlShortener.Repository.AssemblyInfo.cs
+C:\Users\Bluesland\Desktop\Custom Shortener\NatroShortener.Repository\obj\Debug\netcoreapp2.1\CustomUrlShortener.Repository.csproj.CopyComplete
+C:\Users\Bluesland\Desktop\Custom Shortener\NatroShortener.Repository\obj\Debug\netcoreapp2.1\CustomUrlShortener.Repository.dll
+C:\Users\Bluesland\Desktop\Custom Shortener\NatroShortener.Repository\obj\Debug\netcoreapp2.1\CustomUrlShortener.Repository.pdb

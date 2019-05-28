@@ -1,0 +1,16 @@
+C:\Users\artug\source\repos\NatroShortener\NatroShortener.Model\obj\Debug\netcoreapp2.1\NatroShortener.Model.csproj.CoreCompileInputs.cache
+C:\Users\artug\source\repos\NatroShortener\NatroShortener.Model\obj\Debug\netcoreapp2.1\NatroShortener.Model.AssemblyInfoInputs.cache
+C:\Users\artug\source\repos\NatroShortener\NatroShortener.Model\obj\Debug\netcoreapp2.1\NatroShortener.Model.AssemblyInfo.cs
+C:\Users\artug\source\repos\NatroShortener\NatroShortener.Model\bin\Debug\netcoreapp2.1\NatroShortener.Model.deps.json
+C:\Users\artug\source\repos\NatroShortener\NatroShortener.Model\bin\Debug\netcoreapp2.1\NatroShortener.Model.dll
+C:\Users\artug\source\repos\NatroShortener\NatroShortener.Model\bin\Debug\netcoreapp2.1\NatroShortener.Model.pdb
+C:\Users\artug\source\repos\NatroShortener\NatroShortener.Model\obj\Debug\netcoreapp2.1\NatroShortener.Model.dll
+C:\Users\artug\source\repos\NatroShortener\NatroShortener.Model\obj\Debug\netcoreapp2.1\NatroShortener.Model.pdb
+C:\Users\Bluesland\Desktop\NatroShortener\NatroShortener.Model\bin\Debug\netcoreapp2.1\NatroShortener.Model.deps.json
+C:\Users\Bluesland\Desktop\NatroShortener\NatroShortener.Model\bin\Debug\netcoreapp2.1\NatroShortener.Model.dll
+C:\Users\Bluesland\Desktop\NatroShortener\NatroShortener.Model\bin\Debug\netcoreapp2.1\NatroShortener.Model.pdb
+C:\Users\Bluesland\Desktop\NatroShortener\NatroShortener.Model\obj\Debug\netcoreapp2.1\NatroShortener.Model.csproj.CoreCompileInputs.cache
+C:\Users\Bluesland\Desktop\NatroShortener\NatroShortener.Model\obj\Debug\netcoreapp2.1\NatroShortener.Model.AssemblyInfoInputs.cache
+C:\Users\Bluesland\Desktop\NatroShortener\NatroShortener.Model\obj\Debug\netcoreapp2.1\NatroShortener.Model.AssemblyInfo.cs
+C:\Users\Bluesland\Desktop\NatroShortener\NatroShortener.Model\obj\Debug\netcoreapp2.1\NatroShortener.Model.dll
+C:\Users\Bluesland\Desktop\NatroShortener\NatroShortener.Model\obj\Debug\netcoreapp2.1\NatroShortener.Model.pdb

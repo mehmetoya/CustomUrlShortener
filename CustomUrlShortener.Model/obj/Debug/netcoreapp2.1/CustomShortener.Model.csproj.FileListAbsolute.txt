@@ -1,0 +1,8 @@
+C:\Users\Bluesland\Desktop\Custom Shortener\NatroShortener.Model\bin\Debug\netcoreapp2.1\CustomShortener.Model.deps.json
+C:\Users\Bluesland\Desktop\Custom Shortener\NatroShortener.Model\bin\Debug\netcoreapp2.1\CustomShortener.Model.dll
+C:\Users\Bluesland\Desktop\Custom Shortener\NatroShortener.Model\bin\Debug\netcoreapp2.1\CustomShortener.Model.pdb
+C:\Users\Bluesland\Desktop\Custom Shortener\NatroShortener.Model\obj\Debug\netcoreapp2.1\CustomShortener.Model.csproj.CoreCompileInputs.cache
+C:\Users\Bluesland\Desktop\Custom Shortener\NatroShortener.Model\obj\Debug\netcoreapp2.1\CustomShortener.Model.AssemblyInfoInputs.cache
+C:\Users\Bluesland\Desktop\Custom Shortener\NatroShortener.Model\obj\Debug\netcoreapp2.1\CustomShortener.Model.AssemblyInfo.cs
+C:\Users\Bluesland\Desktop\Custom Shortener\NatroShortener.Model\obj\Debug\netcoreapp2.1\CustomShortener.Model.dll
+C:\Users\Bluesland\Desktop\Custom Shortener\NatroShortener.Model\obj\Debug\netcoreapp2.1\CustomShortener.Model.pdb

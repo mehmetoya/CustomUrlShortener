@@ -1,0 +1,17 @@
+C:\Users\artug\source\repos\NatroShortener\NatroShortener.Helper\bin\Debug\netcoreapp2.1\NatroShortener.Helper.deps.json
+C:\Users\artug\source\repos\NatroShortener\NatroShortener.Helper\bin\Debug\netcoreapp2.1\NatroShortener.Helper.dll
+C:\Users\artug\source\repos\NatroShortener\NatroShortener.Helper\bin\Debug\netcoreapp2.1\NatroShortener.Helper.pdb
+C:\Users\artug\source\repos\NatroShortener\NatroShortener.Helper\obj\Debug\netcoreapp2.1\NatroShortener.Helper.csproj.CoreCompileInputs.cache
+C:\Users\artug\source\repos\NatroShortener\NatroShortener.Helper\obj\Debug\netcoreapp2.1\NatroShortener.Helper.AssemblyInfoInputs.cache
+C:\Users\artug\source\repos\NatroShortener\NatroShortener.Helper\obj\Debug\netcoreapp2.1\NatroShortener.Helper.AssemblyInfo.cs
+C:\Users\artug\source\repos\NatroShortener\NatroShortener.Helper\obj\Debug\netcoreapp2.1\NatroShortener.Helper.dll
+C:\Users\artug\source\repos\NatroShortener\NatroShortener.Helper\obj\Debug\netcoreapp2.1\NatroShortener.Helper.pdb
+C:\Users\Bluesland\Desktop\NatroShortener\NatroShortener.Helper\bin\Debug\netcoreapp2.1\NatroShortener.Helper.deps.json
+C:\Users\Bluesland\Desktop\NatroShortener\NatroShortener.Helper\bin\Debug\netcoreapp2.1\NatroShortener.Helper.dll
+C:\Users\Bluesland\Desktop\NatroShortener\NatroShortener.Helper\bin\Debug\netcoreapp2.1\NatroShortener.Helper.pdb
+C:\Users\Bluesland\Desktop\NatroShortener\NatroShortener.Helper\obj\Debug\netcoreapp2.1\NatroShortener.Helper.csprojAssemblyReference.cache
+C:\Users\Bluesland\Desktop\NatroShortener\NatroShortener.Helper\obj\Debug\netcoreapp2.1\NatroShortener.Helper.csproj.CoreCompileInputs.cache
+C:\Users\Bluesland\Desktop\NatroShortener\NatroShortener.Helper\obj\Debug\netcoreapp2.1\NatroShortener.Helper.AssemblyInfoInputs.cache
+C:\Users\Bluesland\Desktop\NatroShortener\NatroShortener.Helper\obj\Debug\netcoreapp2.1\NatroShortener.Helper.AssemblyInfo.cs
+C:\Users\Bluesland\Desktop\NatroShortener\NatroShortener.Helper\obj\Debug\netcoreapp2.1\NatroShortener.Helper.dll
+C:\Users\Bluesland\Desktop\NatroShortener\NatroShortener.Helper\obj\Debug\netcoreapp2.1\NatroShortener.Helper.pdb
